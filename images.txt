@@ -1,1 +1,1 @@
-synctvorg/synctv:latest
+synctvorg/synctv
