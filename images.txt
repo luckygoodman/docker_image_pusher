@@ -1,3 +1,1 @@
-kingwrcy/moments
-syncvory/synctv
 halcyonazure/lsky-pro-docker
