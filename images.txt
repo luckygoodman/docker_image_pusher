@@ -1,1 +1,1 @@
-dko0/lsky-pro
+jc21/nginx-proxy-manager
